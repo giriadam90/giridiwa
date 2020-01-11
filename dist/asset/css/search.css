@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Barlow&display=swap');
+
+a:focus{
+	color: #fff;
+}
+.bg-dark{
+	background:#263238;
+	color:#fff;
+}
+.navbar-light .navbar-brand{
+	color:#fff;
+}
+.navbar-light .navbar-nav .nav-link{
+	color:#fff;
+}
+.navbar-nav .nav-link:hover{
+	color:#fff;
+}
+.navbar-light .navbar-toggler{
+	border:none;
+}
+.btn-outline-white{
+	border:1px solid #fff;
+	color:#fff;
+}
+.btn-outline-white:hover{
+	color:#fff;
+}
+.context-dark{
+	background: #37474f;
+	color:#fff;
+}
+.header-atas{
+	width:100%;
+	height: 90vh;
+	color:#fff;
+	background: #263238;
+}
+.lead{
+	text-align: center;
+	font-family: 'Yanone Kaffeesatz', sans-serif;;
+	font-size: 40px;
+	color:#fff;
+	top:0;
+	bottom:0;
+	padding-top:200px;
+
+}
+.text-sm{
+	font-size: 14px;
+}
+.subtitle-font{
+	color:#fff;
+	text-align: center;
+	font-size: 20px;
+	top:0;
+	bottom:0;
+	padding-top:0;
+}
+hr{
+	width:50%;
+	color: #fff;
+	border-top: 1px solid #fff;
+}
+
+.sub{
+	color:#000;
+	font-size: 50px;
+	font-family: 'Barlow',sans-serif;
+}
+.subtitle{
+	font-family: 'Barlow',sans-serif;
+}
+.p-1{
+	padding:.25rem !important;
+}
+.rounded{
+	border-radius: 8px!important;
+}
+.mr-2, .mx-2{
+	margin-right: .5em!important;
+}
+.d-inline-block{
+	display: inline-block!important;
+}
+.text-twitter{
+	color:#1da1f2;
+}
+.text-build{
+	font-family: 'Barlow',sans-serif;
+	color:#fff;
+	font-size: 30px;
+	font-weight: 500;
+	text-align: center;
+}
+.padding-left-20{
+	padding-left: 20px;
+}
+.pt-0{
+	padding-top:0;
+	top:0;
+}
+.pb-0{
+	padding-bottom:0;
+	bottom:0;
+}
